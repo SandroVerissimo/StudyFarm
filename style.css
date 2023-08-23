@@ -60,8 +60,12 @@ textarea {
 .bb {
     position: relative;
     top: 87vh;
-    left: 196px;
+    left: 195px;
     border-radius: 50%;
-    width: 122px;
-    height: 122px;
+    width: 115px;
+    height: 115px;
+}
+
+input {
+    background-color: blueviolet;
 }
