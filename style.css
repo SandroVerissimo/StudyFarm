@@ -4,8 +4,23 @@
     box-sizing: border-box;
 }
 
-p {
+textarea {
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    background: transparent;
     position: relative;
-    top: 430px;
+    outline:none;
+    border:none;
+    width:100%;
+    color:#222222;
+}
+
+#Um {
+    top: 101vh;
     left: 66px;
+}
+
+#Dois {
+    top: 94vh;
+    left: 295px;
 }
