@@ -59,11 +59,11 @@ textarea {
 
 .bb {
     position: relative;
-    top: 87vh;
-    left: 195px;
+    top: 89vh;
+    left: 196px;
     border-radius: 50%;
-    width: 115px;
-    height: 115px;
+    width: 120px;
+    height: 120px;
 }
 
 input {
